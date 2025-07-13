@@ -1,5 +1,10 @@
 # modern-arch-aws-presentation
+
 This is the aws presentation repo that will be used for all the archives
+
+---
+
+## [Presentation Link](git@github.com:shadreza/modern-arch-aws-presentation.git)
 
 ---
 
@@ -39,7 +44,7 @@ This is the aws presentation repo that will be used for all the archives
 | 9       | Choosing AWS Services Wisely          | Tips: Lambda vs ECS, DynamoDB vs RDS, EventBridge vs SQS           |
 | 10      | Best Practices in AWS Architecture    | IAM, automation, observability, cost control, resilience           |
 | 11      | Common Developer Mistakes to Avoid    | Real-world gotchas: cold starts, missing retries, bad IAM policies |
-| 12      | What’s Next in Cloud Dev *(Optional)* | Trends: AI-native apps, Graviton, edge computing, sustainability   |
+| 12      | What’s Next in Cloud Dev _(Optional)_ | Trends: AI-native apps, Graviton, edge computing, sustainability   |
 
 ---
 
