@@ -6,7 +6,7 @@ This is the aws presentation repo that will be used for all the archives
 
 ## Presentation Link
 
-[ref](git@github.com:shadreza/modern-arch-aws-presentation.git)
+[ref](https://docs.google.com/presentation/d/1indsIk2WefQ-xTasuXbDeUEwgdniZaY4llMOsF-J0G8/edit?usp=sharing)
 
 ---
 
